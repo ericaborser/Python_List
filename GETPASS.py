@@ -2,7 +2,7 @@ import getpass
 
 PASS = getpass.getpass("PASSWORD:")
 
-if PASS =="EADLCV":
+if PASS =="password":
     print("Login Successfully!")
     
 else:
